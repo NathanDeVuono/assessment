@@ -1,0 +1,6 @@
+Without modifying the markup of the HTML file please match the layout provided
+in assessment.png as closely as possible.
+
+Make use of CSS3 properties as they are supported by modern browsers.
+
+Name your stylesheet "styles.css" and place it in the root of the directory
